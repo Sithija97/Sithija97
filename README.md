@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/sithija-shehara-6a0a6815b/">
     <img align="left" alt="Felipe's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />
   </a>
-  <a href="nsithijashehara@gmail.com">
+  <a href="mailto:nsithijashehara@gmail.com">
     <img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
   </a>
   <a href="https://instagram.com/sithija_shehara">
