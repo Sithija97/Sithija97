@@ -1,5 +1,5 @@
 <p><samp>Hi there! I'm <b>Sithija</b>.</samp></p>
-<p><samp>I'm a <b>Computer Science</b> undergraduate student at University of Moratuwa in <b>Sri Lanka</b>.</samp></p>
+<p><samp>I'm aN <b>IT</b> undergraduate student at University of Moratuwa in <b>Sri Lanka</b>.</samp></p>
 <p><samp>I'm passionate about  <b>Web Development</b> <b>UI/UX Designing</b>, and <b>Open Source</b>.</samp></p>
 <hr>
 <p>
