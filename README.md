@@ -1,19 +1,11 @@
-<p><samp>Hi there! I'm <b>Sithija</b>.</samp></p>
-<p><samp>I'm an <b>IT</b> undergraduate student at University of Moratuwa in <b>Sri Lanka</b>.</samp></p>
-<p><samp>I'm passionate about  <b>Web Development</b> <b>UI/UX Designing</b>, and <b>Mobile Development</b>.</samp></p>
-<hr>
-<p>
-  <a href="https://www.linkedin.com/in/sithija-shehara-6a0a6815b/">
-    <img align="left" alt="Felipe's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />
-  </a>
-  <a href="mailto:nsithijashehara@gmail.com">
-    <img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
-  </a>
-  <a href="https://instagram.com/sithija_shehara">
-    <img align="left" alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />
-  </a>
-  <a href="https://www.hackerrank.com/nsithijashehara?hr_r=1">
-    <img align="left" alt="HackerRank Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/hackerrank.svg" />
-  </a>
-</p>
+
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://github.com/Sithija97)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Sithijashehara)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sithija-shehara-6a0a6815b/)
+<!-- [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer) -->
+
+Hey there 👋
+
+I’m Sithija, an IT undergraduate student at University of Moratuwa in Sri Lanka. I'm passionate about Web Development UI/UX Designing, and Mobile Development.
+
 
