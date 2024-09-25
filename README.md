@@ -1,6 +1,4 @@
-Here's a formal and professional README file for your GitHub profile:
 
----
 
 # 👋 Hi, I'm **Sithija Shehara**
 
