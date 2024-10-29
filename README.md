@@ -10,9 +10,7 @@
 
 ---
 
-I’m **Sithija Shehara**, a **Software Developer** based in **Sri Lanka** with a passion for building efficient, user-focused web applications. My focus is on **web development** and I am currently honing my skills in **mobile development** to create clean, scalable, and intuitive software that improves user experience.
-
-I am a strong advocate of continuous learning and strive to adopt the best practices in software engineering, from code structure to design patterns.
+I’m **Sithija Shehara**, a **Software Developer** based in **Sri Lanka** with a passion for building efficient, user-focused web applications. My focus is on **web development** and I am currently honing my skills in **mobile development** to create clean, scalable, and intuitive applications that improves user experience.
 
 ---
 
@@ -27,14 +25,8 @@ I am a strong advocate of continuous learning and strive to adopt the best pract
 
 ### Tools & Platforms:
 - **Dev Tools**: Vite, Webpack, Postman
-- **Deployment**: Heroku, Netlify, Vercel
+- **Deployment**: Netlify, Vercel
 - **Other**: REST APIs, JWT Authentication, Firestore, Excel File Processing
-
----
-
-## 🚀 **Current Projects**
-- **Law Firm Case Management App**: A web app built to streamline court case management for law firms, providing functionalities for uploading, managing, and exporting court case data.
-- **Expense Tracker App**: An expense management tool built using the MERN stack to help users track their incomes, create budgets, and record expenses.
 
 ---
 
