@@ -10,7 +10,7 @@
 
 ---
 
-I’m **Sithija**, a **Software Developer** based in **Sri Lanka** with a passion for building efficient, user-focused web applications. My focus is on **web development** and I am currently honing my skills in **mobile development** to create clean, scalable, and intuitive applications that improves user experience.
+I’m **Sithija Shehara**, a **Software Developer** based in **Sri Lanka** with a passion for building efficient, user-focused web applications. My focus is on **web development** and I am currently honing my skills in **mobile development** to create clean, scalable, and intuitive applications that improves user experience.
 
 ---
 
