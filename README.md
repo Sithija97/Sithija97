@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-sithijashehara-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sithijashehara/)](https://www.linkedin.com/in/sithija-shehara-6a0a6815b/) 
 [![Github Badge](https://img.shields.io/badge/-Sithija97-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Sithija97/)](https://www.github.com/Sithija97/) 
 [![Twitter Badge](https://img.shields.io/badge/-@Sithijashehara-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@Sithijashehara/)](https://twitter.com/Sithijashehara) 
-[![Website Badge](https://img.shields.io/badge/Portfolio-sithijashehara-2648ff?style=flat-square&logo=google-chrome)]((https://sithija-shehara-portfolio.vercel.app/))
+[![Website Badge](https://img.shields.io/badge/Portfolio-sithijashehara-2648ff?style=flat-square&logo=google-chrome)](https://sithija-shehara-portfolio.vercel.app/)
 
 ---
 
